@@ -1,3 +1,6 @@
+***Archived:*** some work we did for a computer vision hackathon (qualifications part)
+
+
 # RSNA-PneumoniaDetectionChallenge x team shiba rinu
 
 ## Table of contents
